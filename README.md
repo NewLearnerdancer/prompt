@@ -127,3 +127,28 @@ Generate a comprehensive and visually appealing README file for the GitHub repos
 ---
 
 *End of Prompt*
+**Prompt:**
+
+You are tasked with generating a README file for a GitHub project that showcases dynamically generated statistics for a user's GitHub profile. The README should include the following sections:
+
+1. **Project Title and Description**: Clearly state the project title, its purpose, and what it does. Include a brief overview of the functionality.
+
+2. **Badges Section**: Add relevant badges that indicate build status, contributors, test coverage, and any open issues or pull requests. Use icons and ensure they link to their respective pages.
+
+3. **Documentation and Language Support**: Create a section that provides links to the documentation in various languages, indicating that translations may be outdated.
+
+4. **Features**: Outline the key features of the project, such as the GitHub Stats Card, Extra Pins, Top Languages Card, and WakaTime Stats. Include subsections that explain the usage and customization options for each feature.
+
+5. **Important Notices**: Include warnings and important notes regarding API limits, caching, and community engagement on issues and pull requests.
+
+6. **Usage Examples**: Provide code snippets that users can copy to implement the project in their own README files. Include explanations of the parameters and options available.
+
+7. **Deployment Instructions**: Offer clear steps for deploying the project on platforms like Vercel, including any necessary environment variable configurations.
+
+8. **Support and Contribution**: Encourage users to support the project through donations, sharing, or starring the repository. Provide links to contribution guidelines and ways to reach out for help.
+
+9. **Visual Elements**: Incorporate images or diagrams where necessary to illustrate the features or usage of the project.
+
+10. **Quick Tip**: Add a tip for aligning cards in the README for better visual presentation.
+
+Make sure to format the document using Markdown, with appropriate headings, lists, and code blocks. The overall tone should be friendly, informative, and professional, encouraging users to engage with the project and contribute positively.
